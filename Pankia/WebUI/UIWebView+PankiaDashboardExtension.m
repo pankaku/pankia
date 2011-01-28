@@ -10,7 +10,7 @@
 #import "PNLocalResourceUtil.h"
 #import "PNNativeRequest.h"
 
-static BOOL useLocalFile = YES;
+static BOOL useLocalFile = NO;
 
 @implementation UIWebView(PankiaDashboardExtension)
 - (void)loadDashboardURL:(NSURL*)url

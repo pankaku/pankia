@@ -11,6 +11,6 @@
 @interface PankiaDevViewController : UIViewController {
 
 }
-
+- (IBAction)openDashboard;
 @end
 
