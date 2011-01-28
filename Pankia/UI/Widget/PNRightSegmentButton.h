@@ -1,0 +1,6 @@
+
+@interface PNRightSegmentButton : UIButton {
+
+}
+
+@end
