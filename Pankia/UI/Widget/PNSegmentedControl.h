@@ -1,7 +1,0 @@
-
-
-@interface PNSegmentedControl : UISegmentedControl {
-
-}
-
-@end

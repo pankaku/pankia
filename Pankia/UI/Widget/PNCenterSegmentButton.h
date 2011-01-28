@@ -1,6 +1,0 @@
-
-@interface PNCenterSegmentButton : UIButton {
-
-}
-
-@end

@@ -1,6 +1,0 @@
-
-@interface PNLeftSegmentButton : UIButton {
-
-}
-
-@end

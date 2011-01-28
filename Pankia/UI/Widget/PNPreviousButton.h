@@ -1,6 +1,0 @@
-
-@interface PNPreviousButton : UIButton {
-
-}
-
-@end
