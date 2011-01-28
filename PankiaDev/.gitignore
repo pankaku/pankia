@@ -1,0 +1,4 @@
+build/*
+PankiaDev.xcodeproj/*.pbxuser
+PankiaDev.xcodeproj/*.perspectivev3
+PankiaDev.xcodeproj/*.mode1v3
