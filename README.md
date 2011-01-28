@@ -1,3 +1,16 @@
 # Pankia
 
-[Read the documentation](https://github.com/pankaku/pankia/wiki/Getting-started-with-Pankia)
+## Required frameworks
+
+- AddressBook.framework
+- CFNetwork.framework
+- CoreGraphics.framework
+- Foundation.framework
+- GameKit.framework
+- MessageUI.framework
+- QuartzCore.framework
+- UIKit.framework
+- StoreKit.framework
+- SystemConfiguration.framework
+- libsqlite3.dylib
+- libz.dylib
