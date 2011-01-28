@@ -1,5 +1,9 @@
 # Pankia
 
+## System requirements
+
+- iOS 4.2 or higher.
+
 ## Required frameworks
 
 - AddressBook.framework
